@@ -3,13 +3,13 @@
 #
 
 # Name of your site (displayed in the header)
-name: Rhei
+name: Desa Ancrit
 
 # Short bio or description (displayed in the header)
-description: Coding for hobbies!
+description: Official Dev Blog of Desa Acrit!
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://avatars.githubusercontent.com/u/77543963?v=4
+avatar: https://raw.githubusercontent.com/Desa-Ancrit/desa-ancrit.github.io/main/images/server-icon.png
 
 #
 # Flags below are optional
@@ -18,12 +18,12 @@ avatar: https://avatars.githubusercontent.com/u/77543963?v=4
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: rheizafahrezi27@gmail.com
-  facebook: rheizafahrezi27
+  email: 
+  facebook: 
   flickr:
-  github: KijangSalto
-  instagram: rheizafahrezi26
-  linkedin: rheiza-fahrezi-1428a527a
+  github: 
+  instagram: 
+  linkedin: 
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: 
