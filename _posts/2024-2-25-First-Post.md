@@ -3,7 +3,7 @@ layout: post
 title: Top Up Coy?
 ---
 Njir, top up lu?
-Cek dimari.
+Cek dimari
 
 [CODM Via ID]
 
