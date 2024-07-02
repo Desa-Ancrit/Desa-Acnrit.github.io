@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Tentang Desa Ancrit
-permalink: /about/
+permalink: /ancrit/
 ---
 ![Desa Ancrit](https://cdn.discordapp.com/attachments/850030056633008198/1257819506777128960/title.png?ex=6685cb33&is=668479b3&hm=8ec6668651f48fff855aadc97147cfc014ccbb61ea4e191333dec1c170ca381e&)
 Desa Ancrit adalah sebuah server multiplayer minecraft yang dibuat oleh sirkel **Buset, Ini Server?**.
