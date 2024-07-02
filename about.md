@@ -1,15 +1,8 @@
 ---
 layout: page
-title: About
+title: Tentang Desa Ancrit
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of kn that you'd like to include about yourself.
-
-### Contact me
-
-[rheizafahrezi@gmail.com](mailto:rheizafahrezi@gmail.com)
+###test
+##test
