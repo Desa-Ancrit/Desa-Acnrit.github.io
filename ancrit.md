@@ -7,7 +7,7 @@ permalink: /ancrit/
 Desa Ancrit adalah sebuah server multiplayer minecraft yang dibuat oleh sirkel **Buset, Ini Server?**.
 
 ## Awal Dari Desa Ancrit.
-![Fam](https://cdn.discordapp.com/attachments/975760670748471357/975761425236656138/Screenshot_20220516-203244_Minecraft.jpg?ex=66855b24&is=668409a4&hm=1bd81b1b824fb19f624ccab04a93b9dd8189152d4ec1b8d6111031afeafe4c0a&)
+![Fam](https://cdn.discordapp.com/attachments/975760670748471357/975761425236656138/Screenshot_20220516-203244_Minecraft.jpg?ex=66875564&is=668603e4&hm=e93b496a16c2c19e2405a147b8798e15e3a50ce1aa58aaa282cc195ba72df103&)
 Desa Ancrit dimulai pada 10 Mei 2022 disaat Minecraft di Play Store mengalami bug yang membuat game tersebut menjadi gratis. Dikarenakan member **Buset, Ini Server?** ingin mencoba memainkannya bersama-sama, dibangunlah server Desa Ancrit menggunakan [Aternos](aternos.org)
 
 ## Bangkit Kembali.
